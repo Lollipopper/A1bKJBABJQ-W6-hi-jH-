@@ -1,0 +1,25 @@
+<html>
+
+	<head>
+	
+	<title>Alla ricerca della cosa bella</title>
+	
+<link rel="shortcut icon" type="image/x-icon" href="Images/ico.gif"/>
+	
+	<script src = "Js/main.js"></script>
+	<script src = "Js/resources.js"></script>
+	<script src = "Js/inputs.js"></script>
+	<script src = "Js/hud.js"></script>
+
+	</head>
+
+	<body style = "background-color:white">
+		
+		<p id = "readme">dear gamers, 
+this is the real name of this Game....
+"alla ricerca della cosa bella"</p>
+		<canvas id = "c" style = "background-color:white"></canvas>
+	
+	</body>
+
+</html>
